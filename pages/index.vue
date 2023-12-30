@@ -24,13 +24,13 @@ export default {
           id: 1,
           title: 'Web Development',
           description: 'Building responsive and dynamic websites.',
-          image: 'http://localhost:3000/_nuxt/public/favicon.ico'
+          image: 'https://my-nuxt-pira.vercel.app/_nuxt/favicon.iA2AswTc.ico'
         },
         {
           id: 1,
           title: 'API Development',
           description: 'Building fast and modern apis.',
-          image: 'http://localhost:3000/_nuxt/public/favicon.ico'
+          image: 'https://my-nuxt-pira.vercel.app/_nuxt/favicon.iA2AswTc.ico'
         },
       ]
     };
