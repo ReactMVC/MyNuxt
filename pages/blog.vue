@@ -31,7 +31,8 @@ definePageMeta({
               <p class="text-gray-500 text-sm">Published on July 20, 2023</p>
             </div>
             <div class="text-gray-700">
-              <p>This is a summary of the blog post. It should give readers an idea of what the post is about without giving everything away.</p>
+              <p>This is a summary of the blog post. It should give readers an idea of what the post is about without
+                giving everything away.</p>
             </div>
             <div class="mt-4">
               <a href="#" class="text-indigo-600 hover:text-indigo-500 transition duration-300">Read more →</a>
@@ -44,7 +45,8 @@ definePageMeta({
               <p class="text-gray-500 text-sm">Published on July 20, 2023</p>
             </div>
             <div class="text-gray-700">
-              <p>This is a summary of the blog post. It should give readers an idea of what the post is about without giving everything away.</p>
+              <p>This is a summary of the blog post. It should give readers an idea of what the post is about without
+                giving everything away.</p>
             </div>
             <div class="mt-4">
               <a href="#" class="text-indigo-600 hover:text-indigo-500 transition duration-300">Read more →</a>
@@ -57,7 +59,8 @@ definePageMeta({
               <p class="text-gray-500 text-sm">Published on July 20, 2023</p>
             </div>
             <div class="text-gray-700">
-              <p>This is a summary of the blog post. It should give readers an idea of what the post is about without giving everything away.</p>
+              <p>This is a summary of the blog post. It should give readers an idea of what the post is about without
+                giving everything away.</p>
             </div>
             <div class="mt-4">
               <a href="#" class="text-indigo-600 hover:text-indigo-500 transition duration-300">Read more →</a>

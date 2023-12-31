@@ -29,9 +29,9 @@
                     <NuxtLink href="/" class="my-1 text-sm leading-5 hover:text-blue-600 md:mx-4 md:my-0">Contact</NuxtLink>
                 </div>
                 <div class="flex items-center py-2 -mx-1 md:mx-0">
-                    <NuxtLink to="/login"
+                    <NuxtLink to="/auth/login"
                         class="block w-1/2 px-3 py-2 mx-1 rounded text-center text-sm font-medium leading-5 text-white bg-blue-600 hover:bg-blue-700 md:w-auto">Login</NuxtLink>
-                    <NuxtLink to="/register"
+                    <NuxtLink to="/auth/register"
                         class="block w-1/2 px-3 py-2 mx-1 rounded text-center text-sm font-medium leading-5 text-blue-600 bg-transparent border border-blue-600 hover:bg-blue-600 hover:text-white md:w-auto">Register</NuxtLink>
                 </div>
             </div>
